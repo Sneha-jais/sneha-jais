@@ -1,5 +1,7 @@
- <img src="https://github.com/Sneha-jais/sneha-jais/blob/main/I'm%20Sneha-jaiswal.png" width="100%">
  
+ <div align="center">
+ <img src="https://github.com/Sneha-jais/sneha-jais/blob/main/I'm%20Sneha-jaiswal.png" width="70%">
+ </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/sneha-jaiswal-baa827205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha-jaiswal-baa827205/" height="30" width="40" /></a>
@@ -32,7 +34,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-jais&" alt="sneha-jais" /></p>
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/sneha-jaiswal-baa827205/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/sneha-jaiswal-baa827205/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:snehajais0307@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
