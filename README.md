@@ -17,8 +17,11 @@
     </div> 
 <div align="center">
     
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sneha-jais&show_icons=true)  
-<div>
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sneha-jais&show_icons=true)  
+<div> -->
+ 
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sneha-jais&show_icons=true&theme=synthwave" alt="SnehaJaiswal:: Profile Stats" /></p>
  
 <div align="center">
      
