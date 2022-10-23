@@ -1,6 +1,6 @@
  
  <div align="center">
- <img src="https://github.com/Sneha-jais/sneha-jais/blob/main/I'm%20Sneha-jaiswal.png" width="70%">
+ <img src="https://github.com/Sneha-jais/sneha-jais/blob/main/I'm%20Sneha-jaiswal.png" width="60%">
  </div>
  
 <!--  
@@ -27,20 +27,20 @@
 
 <div align="center">
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-jais)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-jais&theme=react)](https://github.com/anuraghazra/github-readme-stats)
     </div> 
 <div align="center">
     
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sneha-jais&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sneha-jais&theme=react&show_icons=true)  
 <div> -->
  
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sneha-jais&show_icons=true" alt="SnehaJaiswal:: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sneha-jais&show_icons=true&theme=react" alt="SnehaJaiswal:: Profile Stats" /></p>
  
  <div align="center">
      
      
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=sneha-jais&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=sneha-jais&layout=compact&hide_border=true&area=true&theme=react)
 </div> 
     
 <div align="center">
@@ -48,7 +48,7 @@
 ![GitHub metrics](https://metrics.lecoq.io/sneha-jais)  
 </div>
     
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-jais&" alt="sneha-jais" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-jais&theme=react" alt="sneha-jais" /></p>
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/sneha-jaiswal-baa827205/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
