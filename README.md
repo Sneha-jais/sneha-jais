@@ -29,6 +29,8 @@
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-jais&theme=react)](https://github.com/anuraghazra/github-readme-stats)
     </div> 
+
+[![@sneha_jais's Holopin board](https://holopin.me/sneha_jais)](https://holopin.io/@sneha_jais)
 <div align="center">
     
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sneha-jais&theme=react&show_icons=true)  
