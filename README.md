@@ -1,4 +1,3 @@
- 
  <div align="center">
  <img src="https://github.com/Sneha-jais/sneha-jais/blob/main/I'm%20Sneha-jaiswal.png" width="70%">
  </div>
@@ -13,6 +12,7 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-jais&label=Profile%20views&color=0e75b6&style=flat" alt="sneha-jais" /> </p>
    -->
+   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/sneha-jaiswal-baa827205/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha-jaiswal-baa827205/" height="30" width="40" /></a>
