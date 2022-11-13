@@ -37,7 +37,6 @@
  
  <div align="center">
      
-     
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=sneha-jais&layout=compact&hide_border=true&area=true&theme=react)
 </div> 
     
