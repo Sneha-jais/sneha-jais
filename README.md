@@ -24,7 +24,6 @@
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-jais&theme=react)](https://github.com/anuraghazra/github-readme-stats)
     </div> 
-
 <div align="center">
     
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sneha-jais&theme=react&show_icons=true)  
@@ -37,7 +36,6 @@
      
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=sneha-jais&layout=compact&hide_border=true&area=true&theme=react)
 </div> 
-    
 <div align="center">
     
 ![GitHub metrics](https://metrics.lecoq.io/sneha-jais)  
