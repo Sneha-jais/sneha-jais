@@ -1,5 +1,5 @@
  <div align="center">
- 
+
  <img src="https://github.com/Sneha-jais/sneha-jais/blob/main/I'm%20Sneha-jaiswal.png" width="70%">
  </div> 
 <h3 align="center">Connect with me:</h3>
@@ -28,8 +28,6 @@
     
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sneha-jais&theme=react&show_icons=true)  
 <div> -->
- 
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sneha-jais&show_icons=true&theme=react" alt="SnehaJaiswal:: Profile Stats" /></p>
  
  <div align="center">
@@ -37,17 +35,14 @@
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=sneha-jais&layout=compact&hide_border=true&area=true&theme=react)
 </div> 
 <div align="center">
-    
 ![GitHub metrics](https://metrics.lecoq.io/sneha-jais)  
 </div>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-jais&theme=react" alt="sneha-jais" /></p>
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/sneha-jaiswal-baa827205/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:snehajais0307@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
 <p align="center">
     <a href="https://github.com/Sneha-jais/sneha-jais/blob/main/forkit.gif"><img src="forkit.gif "/></a> 
 </p>
