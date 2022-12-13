@@ -41,8 +41,12 @@
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/sneha-jaiswal-baa827205/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:snehajais0307@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:snehajais0307@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
 </p>
+
 <p align="center">
     <a href="https://github.com/Sneha-jais/sneha-jais/blob/main/forkit.gif"><img src="forkit.gif "/></a> 
 </p>
