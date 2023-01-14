@@ -1,5 +1,4 @@
  <div align="center">
-
  <img src="https://github.com/Sneha-jais/sneha-jais/blob/main/I'm%20Sneha-jaiswal.png" width="70%">
  </div> 
 <h3 align="center">Connect with me:</h3>
