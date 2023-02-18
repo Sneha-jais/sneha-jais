@@ -32,13 +32,14 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sneha-jais&show_icons=true&theme=react" alt="SnehaJaiswal:: Profile Stats" /></p>
  
  <div align="center">
-     
+  <!--
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=sneha-jais&layout=compact&hide_border=true&area=true&theme=react)
 </div> 
  
 <div align="center">
 ![GitHub metrics](https://metrics.lecoq.io/sneha-jais)  
 </div>
+ -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-jais&theme=react" alt="sneha-jais" /></p>
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
