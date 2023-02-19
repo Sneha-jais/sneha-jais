@@ -1,6 +1,8 @@
  <div align="center">
+ 
  <img src="https://github.com/Sneha-jais/sneha-jais/blob/main/I'm%20Sneha-jaiswal.png" width="70%">
  </div> 
+ 
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
@@ -17,6 +19,7 @@
 
 
 <br>
+
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-jais&label=Profile%20views&color=0e75b6&style=flat" alt="sneha-jais" /> </p>
  <br>
  
