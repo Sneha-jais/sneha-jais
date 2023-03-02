@@ -37,10 +37,12 @@
   <!--
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=sneha-jais&layout=compact&hide_border=true&area=true&theme=react)
 </div> 
+
  
 <div align="center">
 ![GitHub metrics](https://metrics.lecoq.io/sneha-jais)  
 </div>
+
  -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-jais&theme=react" alt="sneha-jais" /></p>
 <h2 align="center">📫 Reach out to me on</h2>
