@@ -1,10 +1,7 @@
  <div align="center">
- 
  <img src="https://github.com/Sneha-jais/sneha-jais/blob/main/I'm%20Sneha-jaiswal.png" width="70%">
  </div> 
-  
-<h3 align="center">Connect with me:</h3>
-
+  <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/sneha-jaiswal-baa827205/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha-jaiswal-baa827205/" height="30" width="40" /></a>
 <a href="https://github.com/Sneha-jais/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sneha__jswl" height="30" width="40" /></a>
