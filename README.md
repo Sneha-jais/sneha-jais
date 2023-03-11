@@ -39,7 +39,6 @@
 <div align="center">
 ![GitHub metrics](https://metrics.lecoq.io/sneha-jais)  
 </div>
-
  -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-jais&theme=react" alt="sneha-jais" /></p>
 <h2 align="center">📫 Reach out to me on</h2>
@@ -48,8 +47,6 @@
   <a href="mailto:snehajais0307@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
   &nbsp;&nbsp;&nbsp;&nbsp;  
- 
- 
 </p>
 
 <p align="center">
