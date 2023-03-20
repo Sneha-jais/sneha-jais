@@ -5,12 +5,14 @@
   <h3 align="center">Connect with me:</h3>
   
 <p align="center">
+
 <a href="https://linkedin.com/in/sneha-jaiswal-baa827205/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha-jaiswal-baa827205/" height="30" width="40" /></a>
 <a href="https://github.com/Sneha-jais/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sneha__jswl" height="30" width="40" /></a>
  <a href="https://www.hackerrank.com/sneha_jais" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sneha_jais" height="30" width="40" /></a>
  <a href="https://www.codechef.com/users/snehajais_123" target=_"blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="snehajais_123" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sneha_jais" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sneha_jais" height="30" width="40" /></a>
  <a href="https://www.instagram.com/sneha__jswl?r=nametag" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sneha__jswl" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
