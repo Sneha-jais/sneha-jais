@@ -1,5 +1,4 @@
- <div align="center">
- 
+ <div align="center"> 
  <img src="https://github.com/Sneha-jais/sneha-jais/blob/main/I'm%20Sneha-jaiswal.png" width="70%">
  </div> 
   <h3 align="center">Connect with me:</h3>
@@ -22,19 +21,14 @@
 
  [![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sneha-jais&theme=react)](https://github.com/sneha-jais/github-readme-stats)
  </div> 
-<!--  
-<div align="center">
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sneha-jais&show_icons=true&theme=react" alt="SnehaJaiswal:: Profile Stats" /></p>
-  
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=sneha-jais&layout=compact&hide_border=true&area=true&theme=react)
-</div> 
 
- 
-<div align="center">
-![GitHub metrics](https://metrics.lecoq.io/sneha-jais)  
-</div> -->
+ <!-- 
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=sneha-jais&layout=compact&hide_border=true&area=true&theme=react)
+  -->
 
 <p align="center"> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-jais&theme=react" alt="sneha-jais" /></p>
+
+<p align="center"> <img  src="https://metrics.lecoq.io/sneha-jais" alt="sneha-jais" /></p>
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
