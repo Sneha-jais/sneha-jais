@@ -28,6 +28,8 @@
 
 <p align="center"> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-jais&theme=react" alt="sneha-jais" /></p>
 
+[![Sneha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sneha-jais&theme=react)](https://github.com/sneha-jais/github-readme-activity-graph)
+
 <p align="center"> <img  src="https://metrics.lecoq.io/sneha-jais" alt="sneha-jais" /></p>
 
 <h2 align="center">📫 Reach out to me on</h2>
